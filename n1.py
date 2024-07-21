@@ -1,3 +1,5 @@
 x=12
 p=20
-print(p)
+
+q=10
+print(q)
