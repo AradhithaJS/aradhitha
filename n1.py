@@ -1,2 +1,3 @@
 x=12
-print(x)
+y=15
+print(y)
