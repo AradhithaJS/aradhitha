@@ -1,2 +1,3 @@
 q=10
-print(q)
+a=12
+print(a)
