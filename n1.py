@@ -1,5 +1,3 @@
 q=10
-a=12
-b=11
-x=6
-print(x)
+w=13
+print(w)
