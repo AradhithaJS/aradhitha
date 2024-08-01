@@ -1,2 +1,3 @@
 a=10
-print(a)
+s=12
+print(s)
